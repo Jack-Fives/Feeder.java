@@ -25,8 +25,7 @@ public class Main
         System.out.println(j.simulateManyDays(10, 4));
         Feeder k = new Feeder(0);
         System.out.println(k.simulateManyDays(5, 10));
-
-
+       
 
     }
 
